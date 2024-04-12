@@ -5,7 +5,7 @@
 * [X] Builder
 * [X] Factory
 * [X] Abstract Factory
-* [ ] Prototype
+* [X] Prototype
 
 ## Structural Design Patterns
 * [ ] Composite
